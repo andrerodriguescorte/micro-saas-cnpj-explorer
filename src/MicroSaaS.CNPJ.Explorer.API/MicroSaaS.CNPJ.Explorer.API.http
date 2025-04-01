@@ -1,0 +1,6 @@
+@MicroSaaS.CNPJ.Explorer.API_HostAddress = http://localhost:5196
+
+GET {{MicroSaaS.CNPJ.Explorer.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
