@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\icroSaaS.CNPJ.Explorer.Application\icroSaaS.CNPJ.Explorer.Application.csproj" />
+    <ProjectReference Include="..\icroSaaS.CNPJ.Explorer.Application\MicroSaaS.CNPJ.Explorer.Application.csproj" />
   </ItemGroup>
 
 </Project>

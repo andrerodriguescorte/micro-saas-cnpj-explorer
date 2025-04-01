@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroSaaS.CNPJ.Explorer.API
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroSaaS.CNPJ.Explorer.Domain", "src\MicroSaaS.CNPJ.Explorer.Domain\MicroSaaS.CNPJ.Explorer.Domain.csproj", "{72EF1ACA-8C30-4CCB-857E-5C275ADF2722}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "icroSaaS.CNPJ.Explorer.Application", "src\icroSaaS.CNPJ.Explorer.Application\icroSaaS.CNPJ.Explorer.Application.csproj", "{66CD75BC-B25D-41E7-BE81-F53D8D9C2C0B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroSaaS.CNPJ.Explorer.Application", "src\icroSaaS.CNPJ.Explorer.Application\MicroSaaS.CNPJ.Explorer.Application.csproj", "{66CD75BC-B25D-41E7-BE81-F53D8D9C2C0B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroSaaS.CNPJ.Explorer.Infrastructure", "src\MicroSaaS.CNPJ.Explorer.Infrastructure\MicroSaaS.CNPJ.Explorer.Infrastructure.csproj", "{2E2AC194-3840-4C39-A19A-E071907B57F1}"
 EndProject
