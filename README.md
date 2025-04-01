@@ -24,15 +24,14 @@ MicroSaaS para **consulta de CNPJ** via [ReceitaWS](https://developers.receitaws
 
 ```
 /src
-├── Api                  # Micro API ASP.NET Core
-├── Domain               # Entidades e regras de negócio
-├── Application          # Casos de uso
-├── Infrastructure       # Integrações externas e repositórios (ClickHouse, ReceitaWS)
-└── Presentation         # Painel web com tela de pesquisa e exibição de dados
+├── MicroSaaS.CNPJ.Explorer.Application.Api                  # Micro API ASP.NET Core
+├── MicroSaaS.CNPJ.Explorer.Application.Domain               # Entidades e regras de negócio
+├── MicroSaaS.CNPJ.Explorer.Application.Application          # Casos de uso
+├── MicroSaaS.CNPJ.Explorer.Application.Infrastructure       # Integrações externas e repositórios (ClickHouse, ReceitaWS)
+└── MicroSaaS.CNPJ.Explorer.Application.Presentation         # Painel web com tela de pesquisa e exibição de dados
 
 /tests
-├── Api.Tests
-└── Domain.Tests
+├── MicroSaaS.CNPJ.Explorer.Application.Tests 
 ```
 
 ---
