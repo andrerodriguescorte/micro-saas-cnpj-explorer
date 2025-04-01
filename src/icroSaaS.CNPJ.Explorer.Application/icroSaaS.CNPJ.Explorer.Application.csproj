@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\MicroSaaS.CNPJ.Explorer.Domain\MicroSaaS.CNPJ.Explorer.Domain.csproj" />
+    <ProjectReference Include="..\MicroSaaS.CNPJ.Explorer.Infrastructure\MicroSaaS.CNPJ.Explorer.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
